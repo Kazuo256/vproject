@@ -1,0 +1,6 @@
+set ( SRCS
+    ${SRC_DIR}/libwraps/ncurses/ncurses.h
+    ${SRC_DIR}/libwraps/ncurses/ncurses.cpp
+    ${SRC_DIR}/libwraps/ncurses/window.h
+    ${SRC_DIR}/libwraps/ncurses/window.cpp
+)

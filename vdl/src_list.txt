@@ -1,0 +1,6 @@
+set ( SRCS
+
+    ${SRC_DIR}/libwraps/SDL/SDL.h
+    ${SRC_DIR}/libwraps/SDL/SDL.cpp
+
+)

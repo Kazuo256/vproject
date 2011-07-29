@@ -1,0 +1,5 @@
+set ( SRCS
+    src/config/config.h
+    src/main.cpp
+)
+

@@ -1,0 +1,13 @@
+.metadata/
+.*project
+*/.project
+*/.cproject
+*/CMake*
+!*/CMakeLists.txt
+*/cmake*
+*/Makefile
+*/bin
+*/lib
+*/src/config/config.h
+*~
+*.swp

@@ -1,0 +1,18 @@
+set (SRCS
+
+${SRC_DIR}/src/veng/vengine.h
+${SRC_DIR}/src/veng/base/vobject.h
+${SRC_DIR}/src/veng/base/vobject.cpp
+${SRC_DIR}/src/veng/base/vref.h
+${SRC_DIR}/src/veng/base/def.h
+${SRC_DIR}/src/veng/sys/lib.h
+${SRC_DIR}/src/veng/sys/timer.h
+${SRC_DIR}/src/veng/sys/timer.cpp
+${SRC_DIR}/src/veng/sys/libs/lib_SDL.cpp
+${SRC_DIR}/src/veng/sys/libs/lib_SDL.h
+${SRC_DIR}/src/veng/config.h
+${SRC_DIR}/src/veng/vengine.cpp
+${SRC_DIR}/src/veng.h
+${SRC_DIR}/src/main.cpp
+
+)

@@ -1,0 +1,13 @@
+set ( SRCS
+
+    ${SRC_DIR}/vframework.h
+    ${SRC_DIR}/config/config.h
+    ${SRC_DIR}/vframework/vbase.h
+    ${SRC_DIR}/vframework/vbase/vdefs.h
+    ${SRC_DIR}/vframework/vbase/vtypes.h
+    ${SRC_DIR}/vframework/vbase/vref.h
+    ${SRC_DIR}/vframework/vbase/vobject.h
+    ${SRC_DIR}/vframework/vbase/vobject.cpp
+
+)
+
